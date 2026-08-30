@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zet-cli.github.io/sitemap.xml
